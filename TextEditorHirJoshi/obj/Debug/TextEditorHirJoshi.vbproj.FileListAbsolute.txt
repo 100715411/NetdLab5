@@ -1,0 +1,12 @@
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\bin\Debug\TextEditorHirJoshi.exe.config
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\bin\Debug\TextEditorHirJoshi.exe
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\bin\Debug\TextEditorHirJoshi.pdb
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\bin\Debug\TextEditorHirJoshi.xml
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\obj\Debug\TextEditorHirJoshi.vbprojAssemblyReference.cache
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\obj\Debug\TextEditorHirJoshi.FrmTextEditor.resources
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\obj\Debug\TextEditorHirJoshi.Resources.resources
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\obj\Debug\TextEditorHirJoshi.vbproj.GenerateResource.cache
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\obj\Debug\TextEditorHirJoshi.vbproj.CoreCompileInputs.cache
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\obj\Debug\TextEditorHirJoshi.exe
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\obj\Debug\TextEditorHirJoshi.xml
+C:\Users\Hir\Documents\NETD_SEM2\TextEditorHirJoshi\TextEditorHirJoshi\obj\Debug\TextEditorHirJoshi.pdb
